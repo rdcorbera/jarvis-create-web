@@ -1,0 +1,23 @@
+{
+  "name": "jarvis-create-web",
+  "version": "1.0.0",
+  "description": "CLI to create a Web Application Seed",
+  "scripts": {
+    "build": "rm -rf dist && webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdcorbera/jarvis-create-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdcorbera/jarvis-create-web/issues"
+  },
+  "homepage": "https://github.com/rdcorbera/jarvis-create-web#readme",
+  "devDependencies": {
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
